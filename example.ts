@@ -26,6 +26,6 @@ class Shape {
     }
 }
 let a = new Shape();
-a.x = 2;
+a.x = 6;
 a.y = 5;
 a.area();
